@@ -1,0 +1,6 @@
+Artist.create(name: "El Ten Eleven")
+Artist.create(name: "My Morning Jacket")
+Artist.create(name: "Tycho")
+Artist.create(name: "Maps and Atlases")
+Artist.create(name: "Tommy Guerrero")
+Artist.create(name: "Ray Barbee")
